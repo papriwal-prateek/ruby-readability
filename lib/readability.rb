@@ -161,7 +161,7 @@ module Readability
         begin
           elem['src'] = URI.join(base,elem['src']).to_s if URI.parse(elem['src']).host == nil 
           images << elem['src'].to_s
-        rescue URI::InvalidURIError => exc
+        rescue URI::InvalidURIError
           elem.remove
         end
       end
