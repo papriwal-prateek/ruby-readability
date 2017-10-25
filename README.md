@@ -7,6 +7,7 @@ webpage. It is a Ruby port of arc90's readability project.
 Build Status
 ------------
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3f6f32cf1a9457daf6179a4e41e2db1)](https://www.codacy.com/app/prateek-papriwal/ruby-readability?utm_source=github.com&utm_medium=referral&utm_content=papriwal-prateek/ruby-readability&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/cantino/ruby-readability.png)](https://travis-ci.org/cantino/ruby-readability)
 
 Install
